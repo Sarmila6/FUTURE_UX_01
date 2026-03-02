@@ -87,3 +87,8 @@ Live chat integration
 Online appointment scheduling
 Payment gateway integration
 Patient portal access
+
+Live Figma Prototype
+
+View the complete high-fidelity design and interactive booking flow here:
+https://www.figma.com/design/kEhk4GFivGHmmlVX9PJe90/AuraDerm-Studio?node-id=8-119&t=xvcskjpd4m6VWszT-1
